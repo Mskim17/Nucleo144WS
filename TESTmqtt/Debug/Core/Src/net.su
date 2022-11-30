@@ -1,0 +1,10 @@
+../Core/Src/net.c:16:8:ourtime	32	static
+../Core/Src/net.c:43:13:update_config	280	static
+../Core/Src/net.c:52:21:getuser	544	static
+../Core/Src/net.c:78:13:send_notification	28	static
+../Core/Src/net.c:91:13:timer_metrics_fn	40	static
+../Core/Src/net.c:98:13:mqtt_fn	120	static
+../Core/Src/net.c:128:13:timer_mqtt_fn	80	static
+../Core/Src/net.c:138:13:sfn	40	static
+../Core/Src/net.c:149:13:timer_sntp_fn	24	static
+../Core/Src/net.c:157:6:device_dashboard_fn	376	static
